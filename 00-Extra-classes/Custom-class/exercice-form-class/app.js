@@ -15,4 +15,4 @@ function render() {
     document.getElementById("app").innerText = new Form;
 }
 
-render();
+render()
